@@ -1,4 +1,4 @@
-# Retail-Sales-Warehouse-Analytics
+# Advanced Retail Data Warehouse & Strategic Analytics
 
 ## 🚀 Project Overview
 This project demonstrates a complete data analytics lifecycle. I transformed raw relational data into a structured **Star Schema** to perform deep-dive analysis on customer behavior, product performance, and business growth trends.
